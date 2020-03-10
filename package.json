@@ -1,9 +1,9 @@
 {
 	"name": "uppercase-model",
-	"version": "2.0.0-beta.0",
+	"version": "2.0.0-beta.1",
 	"dependencies": {
-		"uppercase-db": "latest",
-		"uppercase-room": "latest",
+		"uppercase-db": "^2.0.0-beta.1",
+		"uppercase-room": "^2.0.0-beta.1",
 		"bufferutil": "latest",
 		"utf-8-validate": "latest"
 	},
